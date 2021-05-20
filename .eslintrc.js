@@ -17,7 +17,7 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'no-debugger': 'off',
-    'Expected space(s) after "': 0
+    'space-before-function-paren': 0
   },
 
   'extends': [
